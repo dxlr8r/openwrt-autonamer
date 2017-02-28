@@ -4,7 +4,7 @@
 # Version: 1.0
 # Copyright (c) 2016, Simen Strange Øya
 # License: Modified BSD license
-# https://github.com/dxlr8r/xxx/blob/master/LICENSE
+# https://github.com/dxlr8r/openwrt-autonamer/blob/master/LICENSE
 
 START=99
 
